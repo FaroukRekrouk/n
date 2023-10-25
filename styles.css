@@ -1,0 +1,79 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Playpen Sans', cursive;
+}
+
+h1{
+color: #7752FE;
+font-size: 562.5%;
+
+  margin :50px auto  0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #7752FE;
+  border: 2;
+font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #8E8FFA;
+font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  padding-top: : 20px;
+}
+.main{
+  background-color: #B2C8BA;
+}
+
+
+
+
+
+.top-cloud{
+
+    margin :50px auto  0 auto;
+
+
+}
+.web{
+  font-size: 400%;
+  color: #7752FE;
+
+}
+.don{
+  border-radius: 50%;
+}
+.skill-row{
+  width: 50%;
+  margin :100px auto  100px auto;
+
+}
+.game{
+
+}
+.m{
+  font-size: 300%;
+
+}
+.bottom-container{
+  background-color: #B2C8BA;
+}
+.contact-me{
+  background-color: #B2C8BA;
+  color: black;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration :none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copy{
+  color: #EAF6F6;
+  font-size: 15px;
+}
